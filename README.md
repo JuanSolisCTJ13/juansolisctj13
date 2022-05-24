@@ -3,6 +3,7 @@
 
 ### Welcome to my github!!
 
+### I am a software Engineer with 10+ years of experiencie in technology. 
 
 You can find my linkedin profile if you want to know a little bit more about me:
 <p align="center">
@@ -13,14 +14,20 @@ You can find my linkedin profile if you want to know a little bit more about me:
 
 
 <p align="center">
-    Acá puedes revisar mis certificados en Platzi.
+    I am always learning. So you can find my Platzi's certificates here:
     <a href="https://platzi.com/@juansolis13/">
         <img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="14px"  />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    Acá puedes revisar mis certificados en Coursera
+    </a>&nbsp;
+    &nbsp;&nbsp;&nbsp;
+    
+    
+    
+    And you can find my Coursera's certificates here:
     <a href="https://www.coursera.org/user/640c0aee29c4b1c38e6eef407c1d6fa2">
         <img src="https://img.shields.io/badge/%20-Coursera-blue" height="14px"/>
     </a>
+    
+    
 </p>
 
 
