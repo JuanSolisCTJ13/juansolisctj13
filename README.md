@@ -1,11 +1,17 @@
 
-### Hi there 👋
+### Hi there 👋 I'm Juan Solís Castro.
+
+### Welcome to my github!!
+
+
+You can find my linkedin profile if you want to know a little bit more about me:
 <p align="center">
     <a href="https://www.linkedin.com/in/juansolisds/" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" height="38px" width="38px" />
     </a>
-    
 </p>
+
+
 <p align="center">
     Acá puedes revisar mis certificados en Platzi.
     <a href="https://platzi.com/@juansolis13/">
