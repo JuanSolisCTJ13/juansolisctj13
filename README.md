@@ -7,9 +7,11 @@
     
 </p>
 <p align="center">
+    hoifoid
     <a href="https://platzi.com/@juansolis13/">
         <img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="28px"  />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    jfdpsfasfs
     <a href="https://www.coursera.org/user/640c0aee29c4b1c38e6eef407c1d6fa2">
         <img src="https://img.shields.io/badge/%20-Coursera-blue" height="28px"/>
     </a>
