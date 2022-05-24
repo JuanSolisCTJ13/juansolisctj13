@@ -35,7 +35,7 @@ You can find my linkedin profile if you want to know a little bit more about me:
 
 ![JuanSolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=juansolisctj13&show_icons=true&theme=radical)
 
-### Hi there 👋
+### My languages here in github...but I'm here in github just for a few years...😀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansolisctj13&layout=compact)](https://github.com/juansolisctj13/github-readme-stats)
 
 
