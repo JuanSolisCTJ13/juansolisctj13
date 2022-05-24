@@ -1,3 +1,6 @@
+
+[![GitHub Header JuanSolisCTJ13](https://raw.githubusercontent.com/JuanSolisCTJ13/JuanSolisCTJ13/main/assets/github-banner.gif)](http://www.linkedin.com/in/juansolisds/)
+
 ### Hi there 👋
 <p align="center">
 <a href="https://www.linkedin.com/in/juansolisds/" target="_blank">
