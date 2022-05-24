@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![JuanSolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=juansolisctj13&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansolisctj13)](https://github.com/juansolisctj13/github-readme-stats)
 <!--
 **JuanSolisCTJ13/juansolisctj13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
