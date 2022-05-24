@@ -5,6 +5,13 @@
 
 ### I am a software Engineer with 10+ years of experiencie in technology. 
 
+I have working experience with models in different fields so I can be part of your projects and enhance them together.
+
+I own a Master of sciences in electrical engineering where I was working with algorithms and AI to solve engineering problems. 
+I love to apply my research in real world problems. 
+I worked in different industries and I could be innovative and sistematic to find solutions in very complex problems 
+and leaded multidisciplinary teams involving hardware and software projects.
+
 You can find my linkedin profile if you want to know a little bit more about me:
 <p align="center">
     <a href="https://www.linkedin.com/in/juansolisds/" target="_blank">
