@@ -5,7 +5,7 @@
 
 ### I am a software Engineer with 10+ years of experiencie in technology. 
 
-I have working experience with models in different fields so I can be part of your projects and enhance them together.
+ - 👨🏻‍💻 I have working experience with models in different fields so I can be part of your projects and enhance them together.
 
 I own a Master of sciences in electrical engineering where I was working with algorithms and AI to solve engineering problems. 
 I love to apply my research in real world problems. 
