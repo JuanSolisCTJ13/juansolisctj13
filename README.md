@@ -24,7 +24,7 @@ You can find my linkedin profile if you want to know a little bit more about me:
     I am always learning. So you can find my Platzi's certificates here:
     <a href="https://platzi.com/@juansolis13/">
         <img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="14px"  />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
     
     
     
