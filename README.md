@@ -3,13 +3,14 @@
 
 ### Welcome to my github!!
 
-### I am a software Engineer with 10+ years of experiencie in technology. 
+### I am a software Engineer with 20+ years of experiencie in technology. I've been working with data for 10+ years implementing big projects including dashboarding, connecting IoT devices, modelling and controlling plant industries equipments and analyzing data from very different companies.
 
  - 👨🏻‍💻 I have working experience with models in different fields so I can be part of your projects and enhance them together.
 
-I own a Master of sciences in electrical engineering where I was working with algorithms and AI to solve engineering problems. 
-I love to apply my research in real world problems. 
-I worked in different industries and I could be innovative and sistematic to find solutions in very complex problems 
+ - 📚 I own a Master of sciences in electrical engineering where I was working with algorithms and AI to solve engineering problems. 
+      I loved to apply my research in real world problems. 
+     
+ - 👷🏻‍♂️ I worked in different industries and I could be innovative and sistematic to find solutions in very complex problems 
 and leaded multidisciplinary teams involving hardware and software projects.
 
 You can find my linkedin profile if you want to know a little bit more about me:
