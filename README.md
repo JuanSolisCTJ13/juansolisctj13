@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<p align="center">
 <a href="https://www.linkedin.com/in/juansolisds/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" height="38px" width="38px" />
  </a>
-
+</p>
 ![JuanSolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=juansolisctj13&show_icons=true&theme=radical)
 
 ### Hi there 👋
