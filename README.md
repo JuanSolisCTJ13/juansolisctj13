@@ -6,6 +6,8 @@
  </a>
 </p>
 <a href="https://platzi.com/@juansolis13/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[https://platzi.com/@juansolis13](https://www.coursera.org/user/640c0aee29c4b1c38e6eef407c1d6fa2)/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=coursera&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 ![JuanSolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=juansolisctj13&show_icons=true&theme=radical)
