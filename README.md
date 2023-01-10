@@ -13,7 +13,7 @@
  - 👷🏻‍♂️ I worked in different industries and I could be innovative and sistematic to find solutions in very complex problems 
 and leaded multidisciplinary teams involving hardware and software projects.
 
-You can find my linkedin profile if you want to know a little bit more about me:
+You can find my linkedin profile to know a little bit more about me:
 <p align="center">
     <a href="https://www.linkedin.com/in/juansolisds/" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" height="38px" width="38px" />
