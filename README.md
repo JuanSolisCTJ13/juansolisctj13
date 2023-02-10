@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Juan Solís Castro.
+### Hi there 👋 I'm Juan Alberto Solís Castro.
 
 ### Welcome to my github!
 
