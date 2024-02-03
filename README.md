@@ -3,7 +3,7 @@
 
 ### Welcome to my github!
 
-### I am a software Engineer with 20+ years of experiencie in technology. I've been working with data for 10+ years implementing big projects including dashboarding, connecting IoT devices, modelling and controlling plant industries equipments and analyzing data from very different sources.
+### I am a software Engineer with years of experiencie in technology. I've been working with data for 10+ years implementing big projects including dashboarding, connecting IoT devices, modelling and controlling plant industries equipments and analyzing data from very different sources.
 
  - 👨🏻‍💻 I have working experience with models in different fields so I can be part of your projects and enhance them together.
 
