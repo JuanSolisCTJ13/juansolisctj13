@@ -1,60 +1,39 @@
+### Hi there 👋 I'm Juan Alberto Solís Castro
 
-### Hi there 👋 I'm Juan Alberto Solís Castro.
+### Welcome to my GitHub profile!
 
-### Welcome to my github!
+I am a software engineer with more than 10 years of experience working with data and technology. I have delivered large-scale projects involving dashboards, IoT device integration, industrial plant modeling and control, and the analysis of data from a wide range of sources.
 
-### I am a software Engineer with years of experiencie in technology. I've been working with data for 10+ years implementing big projects including dashboarding, connecting IoT devices, modelling and controlling plant industries equipments and analyzing data from very different sources.
+- 👨🏻‍💻 I have hands-on experience developing models across different fields, and I enjoy collaborating to strengthen projects and turn ideas into practical solutions.
 
- - 👨🏻‍💻 I have working experience with models in different fields so I can be part of your projects and enhance them together.
+- 📚 I hold a Master of Science in Electrical Engineering, where I worked with algorithms and artificial intelligence to solve engineering problems. I especially enjoy applying research to real-world challenges.
 
- - 📚 I own a Master of sciences in electrical engineering where I was working with algorithms and AI to solve engineering problems. 
-      I loved to apply my research in real world problems. 
-     
- - 👷🏻‍♂️ I worked in different industries and I could be innovative and sistematic to find solutions in very complex problems 
-and leaded multidisciplinary teams involving hardware and software projects.
+- 👷🏻‍♂️ I have worked across different industries, using an innovative and systematic approach to solve complex problems and lead multidisciplinary teams in hardware and software projects.
 
-You can find my linkedin profile to know a little bit more about me:
+You can learn more about my experience on LinkedIn:
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/juansolisds/" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" height="38px" width="38px" />
-    </a>
-</p>
-<p> </p>
-<p> </p>
-
-<p align="left">
-    I am always learning. So you can find my Platzi's certificates here:
- <a href="https://platzi.com/@juansolis13/"> <img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="28px"  />
-    </a>
- </p>
-<p align="left">
-    And you can find my Coursera's certificates here:
-    <a href="https://www.coursera.org/user/640c0aee29c4b1c38e6eef407c1d6fa2">
-        <img src="https://img.shields.io/badge/%20-Coursera-blue" height="28px" />
-    </a> 
+  <a href="https://www.linkedin.com/in/juansolisds/">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Alberto%20Sol%C3%ADs%20Castro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Alberto Solís Castro on LinkedIn">
+  </a>
 </p>
 
+I am always learning. You can view my certificates on these platforms:
 
-![JuanSolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=juansolisctj13&show_icons=true&theme=radical)
+<p align="left">
+  <a href="https://platzi.com/@juansolis13/">
+    <img src="https://img.shields.io/badge/Platzi-Certificates-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi certificates">
+  </a>
+</p>
 
-### My languages here in github...but I'm here in github just for a few years...😀
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansolisctj13&layout=compact)](https://github.com/juansolisctj13/github-readme-stats)
+<p align="left">
+  <a href="https://www.coursera.org/user/640c0aee29c4b1c38e6eef407c1d6fa2">
+    <img src="https://img.shields.io/badge/Coursera-Certificates-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera certificates">
+  </a>
+</p>
 
+![Juan Solís's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSolisCTJ13&show_icons=true&theme=radical)
 
-<!--
-**JuanSolisCTJ13/juansolisctj13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My most-used languages on GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ....
-- ⚡ Fun fact: ...
--->
-<!--
-[![GitHub Header JuanSolisCTJ13](https://raw.githubusercontent.com/JuanSolisCTJ13/JuanSolisCTJ13/main/assets/github-banner.gif)](http://www.linkedin.com/in/juansolisds/)
--->
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSolisCTJ13&layout=compact)](https://github.com/JuanSolisCTJ13/github-readme-stats)
