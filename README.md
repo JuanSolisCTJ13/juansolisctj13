@@ -32,8 +32,8 @@ I am always learning. You can view my certificates on these platforms:
   </a>
 </p>
 
-![Juan Solís's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSolisCTJ13&show_icons=true&theme=radical)
+![Juan Solís's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanSolisCTJ13&theme=radical)
 
 ### My most-used languages on GitHub
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSolisCTJ13&layout=compact)](https://github.com/JuanSolisCTJ13/github-readme-stats)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanSolisCTJ13&theme=radical)
